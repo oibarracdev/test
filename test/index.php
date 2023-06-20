@@ -1,6 +1,6 @@
 <?php
 
-
+ 
 $destinations = file('destinations.txt', FILE_IGNORE_NEW_LINES);
 $drivers = file('drivers.txt', FILE_IGNORE_NEW_LINES);
 
